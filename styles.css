@@ -78,11 +78,11 @@ blog-content p {
     padding: 10px;
 }
 
-about h2 {
+about-container h2 {
     text-align: center;
 }
 
-about p {
+about-container p {
     text-align: center;
     padding: 10px;
 }
